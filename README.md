@@ -1,6 +1,6 @@
 ![logo](./graphql.png)
 
-# COVID-19 :mask: API
+# COVID-19 🦠 API<sup>:mask:</sup>
 
 ### A GraphQL Express Server powered by [COVID-19 API]() to provide COVID-19 related stats for India :india:
 
