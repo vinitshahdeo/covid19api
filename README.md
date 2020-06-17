@@ -6,7 +6,7 @@
 
 ## Queries
 
-#### GET overall COVID-19 stats
+#### `GET` overall COVID-19 stats
 
 ```graphql
 { 
@@ -19,7 +19,7 @@
 }
 ```
 
-#### GET statewise COVID-19 stats
+#### `GET` statewise COVID-19 stats
 
 ```graphql
 {
@@ -33,7 +33,7 @@
 }
 ```
 
-#### GET datewise COVID-19 stats
+#### `GET` datewise COVID-19 stats
 
 ```graphql
 {
