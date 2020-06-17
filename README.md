@@ -24,8 +24,9 @@
 #### GET statewise COVID-19 stats
 
 ```graphql
-{ 
-  total {
+{
+  statewise {
+    state
     active
     confirmed
     deaths
@@ -37,12 +38,13 @@
 #### GET datewise COVID-19 stats
 
 ```graphql
-{ 
-  total {
-    active
-    confirmed
-    deaths
-    recovered
+{
+  datewise {
+    date
+    dailyconfirmed
+    dailydeceased
+    dailyrecovered
   }
 }
+
 ```
