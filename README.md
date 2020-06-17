@@ -48,3 +48,18 @@
 }
 
 ```
+
+
+----
+```javascript
+
+if (_.isAwesome(thisRepo)) {
+  thisRepo.star(); // thanks in advance :p
+}
+
+```
+----
+
+[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)  [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+
+
