@@ -1,10 +1,8 @@
 ![logo](./graphql.png)
 
-# COVID-19 🦠 API<sup>:mask:</sup>
+# COVID-19 🦠 API<sup>:mask:</sup>  <img src="https://thumbs.gfycat.com/AjarFloweryJumpingbean-size_restricted.gif" width="60" height="60" />
 
 ### A GraphQL Express Server powered by [COVID-19 API]() to provide COVID-19 related stats for India :india:
-
-
 
 ## Queries
 
@@ -61,5 +59,3 @@ if (_.isAwesome(thisRepo)) {
 ----
 
 [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)  [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
-
-
