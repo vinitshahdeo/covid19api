@@ -49,7 +49,7 @@
 
 ## Related Work
 
-- [COVID-19 Tracker | INDIA](http://corona-cases-india.netlify.com/) - A React App with the following features:
+- [COVID-19 Tracker - INDIA](http://corona-cases-india.netlify.com/) - A React App with the following features:
     - Graphs showing daily **confirmed**, **recovered** and **deceased** cases
     - **State-wise** report presented in Map of India
     - Tabular data for global corona cases
@@ -58,6 +58,9 @@
 
 - [India Fights Corona -  Get current COVID-19 stats](https://indiafightscorona.netlify.app/)!
 
+- [COVID-19 Tracker - Homepage](https://vinitshahdeo.github.io/COVID19/)
+
+- [An Open Letter to all the contributors -  STAY HOME, STAY SAFE!](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236)
 
 
 ## Leave a :star:
