@@ -2,7 +2,7 @@
 
 # COVID-19 🦠 API<sup>:mask:</sup>  <img src="https://thumbs.gfycat.com/AjarFloweryJumpingbean-size_restricted.gif" width="60" height="60" />
 
-### A GraphQL Express Server powered by [COVID-19 API]() to provide COVID-19 related stats for India :india:
+### A GraphQL Express Server powered by [COVID-19 API](https://github.com/covid19india/api) to provide COVID-19 related stats for India :india:
 
 ## Queries
 
@@ -46,6 +46,23 @@
 }
 
 ```
+
+## Related Work
+
+- [COVID-19 Tracker | INDIA](http://corona-cases-india.netlify.com/) - A React App with the following features:
+    - Graphs showing daily **confirmed**, **recovered** and **deceased** cases
+    - **State-wise** report presented in Map of India
+    - Tabular data for global corona cases
+    - **Latest news** about COVID-19
+    - Additional resources such as symptoms, precautions etc.
+
+- [India Fights Corona -  Get current COVID-19 stats](https://indiafightscorona.netlify.app/)!
+
+
+
+## Leave a :star:
+
+Check out **[@vinitshahdeo/COVID19](https://github.com/vinitshahdeo/COVID19)** repository. **Consider leaving a star!** :heart: :hugs:
 
 
 ----
