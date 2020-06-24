@@ -1,11 +1,11 @@
 <p align="center">
 <img src="./graphql.png" />
   <br>
-<img src="https://thumbs.gfycat.com/AjarFloweryJumpingbean-size_restricted.gif" width="60" height="60" /> 
+<a href="https://vinitshahdeo.github.io/COVID19/"><img src="https://thumbs.gfycat.com/AjarFloweryJumpingbean-size_restricted.gif" width="60" height="60" /></a>
+</p>
 <h1 align="center"> COVID-19 🦠 API<sup>:mask:</sup> </h1>
 <p align="center">
 <a href="https://github.com/vinitshahdeo/covid19api/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vinitshahdeo/covid19api?logo=github"></a> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vinitshahdeo/covid19api?logo=javascript"> <img alt="GitHub top language" src="https://awesome.re/mentioned-badge.svg">
-</p>
 </p>
 <hr>
 
@@ -56,8 +56,6 @@
 
 ## Related Work
 
-[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/NovelCOVID/awesome-novelcovid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
-
 - [COVID-19 Tracker - INDIA](http://corona-cases-india.netlify.com/) - A React App with the following features:
     - Graphs showing daily **confirmed**, **recovered** and **deceased** cases
     - **State-wise** report presented in Map of India
@@ -76,6 +74,8 @@
 [![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/0)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/1)](https://indiafightscorona.netlify.app/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/2)](https://github.com/vinitshahdeo/COVID19)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/3)](https://www.linkedin.com/in/vinitshahdeo/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/4)](http://corona-cases-india.netlify.com/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/5)](http://corona-cases-india.netlify.com/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/6)](https://github.com/vinitshahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/7)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)
 
 #### [Vinit Shahdeo](https://www.eatmy.news/2020/06/code-like-you-eat-i-mean-code-daily-as.html)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
 
 ## Leave a :star:
 
