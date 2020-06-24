@@ -11,6 +11,18 @@
 
 ### A GraphQL Express Server powered by [COVID-19 API](https://github.com/covid19india/api) to provide COVID-19 related stats for India :india:
 
+## Setup
+
+```bash
+npm install && npm start
+```
+### Steps Explained
+
+- Open terminal and run `npm install`
+- Run `npm start`
+- Open browser and go to `http://localhost:8080/graphql`
+- Type the [queries](#queries) and enjoy! :smile:
+
 ## Queries
 
 #### `GET` overall COVID-19 stats
