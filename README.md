@@ -18,10 +18,15 @@ npm install && npm start
 ### Steps Explained
 
 - Open terminal and run `npm install`
+
 - Run `npm start`
+
 - Open browser and go to `http://localhost:8080/graphql`
+
 - Type the [queries](#queries) and enjoy! :smile:
+
 - Run `npm run server` for local development
+
 
 ## Queries
 
@@ -68,7 +73,9 @@ npm install && npm start
 ## Dependencies Used
 
 - [express](https://www.npmjs.com/package/express): A web application framework for [Node.js](https://nodejs.org/)
-- [graphql](https://www.npmjs.com/package/graphql): The JavaScript reference implementation for [GraphQL](https://graphql.org/).
+
+- [graphql](https://www.npmjs.com/package/graphql): The JavaScript reference implementation for [GraphQL](https://graphql.org/)
+
 - [express-graphql](https://www.npmjs.com/package/express-graphql): A GraphQL HTTP Server middleware
 
 ## Related Work
