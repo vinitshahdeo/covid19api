@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
+title: COVID-19 API
 plugins:
   - jemoji
