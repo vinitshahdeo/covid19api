@@ -7,7 +7,6 @@
 <p align="center">
 <a href="https://github.com/vinitshahdeo/covid19api/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vinitshahdeo/covid19api?logo=github"></a> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vinitshahdeo/covid19api?logo=javascript"> <img alt="GitHub top language" src="https://awesome.re/mentioned-badge.svg">
 </p>
-<hr>
 
 ### A GraphQL Express Server powered by [@covid19india/api](https://github.com/covid19india/api) to provide COVID-19 related stats for India :india:
 
@@ -22,6 +21,7 @@ npm install && npm start
 - Run `npm start`
 - Open browser and go to `http://localhost:8080/graphql`
 - Type the [queries](#queries) and enjoy! :smile:
+- Run `npm run server` for local development
 
 ## Queries
 
@@ -65,6 +65,11 @@ npm install && npm start
 }
 
 ```
+## Dependencies Used
+
+- [express](https://www.npmjs.com/package/express): A web application framework for [Node.js](https://nodejs.org/)
+- [graphql](https://www.npmjs.com/package/graphql): The JavaScript reference implementation for [GraphQL](https://graphql.org/).
+- [express-graphql](https://www.npmjs.com/package/express-graphql) - A GraphQL HTTP Server middleware
 
 ## Related Work
 
@@ -91,7 +96,8 @@ npm install && npm start
 
 ## Leave a :star:
 
-Check out **[@vinitshahdeo/COVID19](https://github.com/vinitshahdeo/COVID19)** repository. **Consider leaving a star!** :heart: :hugs:
+
+Check out **@vinitshahdeo / [COVID19](https://github.com/vinitshahdeo/COVID19)** repository. **Consider leaving a star!** :heart: :hugs:
 
 
 ----
