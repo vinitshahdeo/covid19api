@@ -1,6 +1,13 @@
-![logo](./graphql.png)
-
-# COVID-19 🦠 API<sup>:mask:</sup>  <img src="https://thumbs.gfycat.com/AjarFloweryJumpingbean-size_restricted.gif" width="60" height="60" />
+<p align="center">
+<img src="./graphql.png" />
+  <br>
+<img src="https://thumbs.gfycat.com/AjarFloweryJumpingbean-size_restricted.gif" width="60" height="60" /> 
+<h1 align="center"> COVID-19 🦠 API<sup>:mask:</sup> </h1>
+<p align="center">
+<a href="https://github.com/vinitshahdeo/covid19api/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vinitshahdeo/covid19api?logo=github"></a> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vinitshahdeo/covid19api?logo=javascript"> <img alt="GitHub top language" src="https://awesome.re/mentioned-badge.svg">
+</p>
+</p>
+<hr>
 
 ### A GraphQL Express Server powered by [COVID-19 API](https://github.com/covid19india/api) to provide COVID-19 related stats for India :india:
 
