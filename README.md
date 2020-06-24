@@ -8,7 +8,7 @@
 <a href="https://github.com/vinitshahdeo/covid19api/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vinitshahdeo/covid19api?logo=github"></a> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vinitshahdeo/covid19api?logo=javascript"> <img alt="GitHub top language" src="https://awesome.re/mentioned-badge.svg">
 </p>
 
-### A GraphQL Express Server powered by @covid19india/[api](https://github.com/covid19india/api) to provide COVID-19 related stats for India :india:
+### A [GraphQL](https://graphql.org/) Express Server powered by @covid19india/[api](https://github.com/covid19india/api) to provide COVID-19 related stats for India :india:
 
 ## Setup
 
