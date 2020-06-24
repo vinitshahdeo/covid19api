@@ -49,6 +49,8 @@
 
 ## Related Work
 
+[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/NovelCOVID/awesome-novelcovid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+
 - [COVID-19 Tracker - INDIA](http://corona-cases-india.netlify.com/) - A React App with the following features:
     - Graphs showing daily **confirmed**, **recovered** and **deceased** cases
     - **State-wise** report presented in Map of India
