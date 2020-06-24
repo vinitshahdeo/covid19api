@@ -97,7 +97,7 @@ npm install && npm start
 ## Leave a :star:
 
 
-Check out **@vinitshahdeo / [COVID19](https://github.com/vinitshahdeo/COVID19)** repository. **Consider leaving a star!** :heart: :hugs:
+Check out **@vinitshahdeo/[COVID19](https://github.com/vinitshahdeo/COVID19)** repository. **Consider leaving a star!** :heart: :hugs:
 
 
 ----
