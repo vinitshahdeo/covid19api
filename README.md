@@ -9,7 +9,7 @@
 </p>
 <hr>
 
-### A GraphQL Express Server powered by [COVID-19 API](https://github.com/covid19india/api) to provide COVID-19 related stats for India :india:
+### A GraphQL Express Server powered by [@covid19india/api](https://github.com/covid19india/api) to provide COVID-19 related stats for India :india:
 
 ## Setup
 
