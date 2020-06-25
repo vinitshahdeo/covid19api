@@ -14,8 +14,8 @@
     <img
        src="https://api.netlify.com/api/v1/badges/fcfb9be7-e730-460c-8bcf-e35179e7bdcb/deploy-status" />
     </a> 
-    <img alt="GitHub top language" src="https://awesome.re/mentioned-badge.svg"> 
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vinitshahdeo/covid19api?logo=javascript">
+    <a href="https://github.com/NovelCOVID/awesome-novelcovid"><img alt="GitHub top language" src="https://awesome.re/mentioned-badge.svg"></a>
+    <a href="https://github.com/vinitshahdeo/COVID19/"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vinitshahdeo/covid19api?logo=javascript"></a>
  </p>
  <h2 align="center">A <a href="https://graphql.org/">GraphQL</a> Express Server powered by @covid19india/<a
     href="https://github.com/covid19india/api">api</a> to provide COVID-19 related stats for India :india: 
