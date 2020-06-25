@@ -20,6 +20,7 @@
  <h2 align="center">A <a href="https://graphql.org/">GraphQL</a> Express Server powered by @covid19india/<a
     href="https://github.com/covid19india/api">api</a> to provide COVID-19 related stats for India :india: 
  </h2>
+ <h3 align="center"><a href="http://corona-cases-india.netlify.com/">COVID-19 Tracker</a> ღ <a href="https://indiafightscorona.netlify.app/">Dashboard</a></h3>
  <p align="center">
     <a href="https://github.com/vinitshahdeo/COVID19/stargazers">
     <img src="https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge" />
@@ -34,7 +35,7 @@
     <a href="https://www.producthunt.com/posts/covid-19-tracker-india?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-covid-19-tracker-india"
        target="_blank">
        <img
-        src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=191600&theme=dark"
+        src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=191600&theme=light"
         alt="COVID-19 Tracker | India - Get real-time state wise stats of COVID-19 in India | Product Hunt Embed"
         style="width: 250px; height: 54px;" width="250px" height="54px" 
        />
