@@ -11,7 +11,7 @@
 
 ### A [GraphQL](https://graphql.org/) Express Server powered by @covid19india/[api](https://github.com/covid19india/api) to provide COVID-19 related stats for India :india:
 
-<a href="https://indiafightscorona.netlify.app/"><p align="center"><img src="./covid19-dashboard.png" /></p></a>
+<p align="center"><a href="https://indiafightscorona.netlify.app/"><img src="./covid19-dashboard.png" /></a></p>
 
 ## Setup
 
