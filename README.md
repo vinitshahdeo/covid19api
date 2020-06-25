@@ -6,10 +6,10 @@
 <h1 align="center"> <a href="https://vinitshahdeo.github.io/COVID19/">COVID-19</a> 🦠 API<sup>:mask:</sup> </h1>
 
 <p align="center">
-<a href="https://github.com/vinitshahdeo/covid19api/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vinitshahdeo/covid19api?logo=github"></a> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vinitshahdeo/covid19api?logo=javascript"> <img alt="GitHub top language" src="https://awesome.re/mentioned-badge.svg">
+<a href="https://github.com/vinitshahdeo/covid19api/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vinitshahdeo/covid19api?logo=github"></a> <img alt="GitHub top language" src="https://awesome.re/mentioned-badge.svg"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vinitshahdeo/covid19api?logo=javascript"> 
 </p>
 
-### A [GraphQL](https://graphql.org/) Express Server powered by @covid19india/[api](https://github.com/covid19india/api) to provide COVID-19 related stats for India :india:
+<h2 align="center"> A <a href="https://graphql.org/">GraphQL</a> Express Server powered by @covid19india/<a href="https://github.com/covid19india/api">api</a> to provide COVID-19 related stats for India :india: </h1>
 
 <p align="center"><a href="https://indiafightscorona.netlify.app/"><img src="./covid19-dashboard.png" /></a></p>
 
