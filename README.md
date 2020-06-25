@@ -6,12 +6,18 @@
 <h1 align="center"> <a href="https://vinitshahdeo.github.io/COVID19/">COVID-19</a> 🦠 API<sup>:mask:</sup> </h1>
 
 <p align="center">
-<a href="https://github.com/vinitshahdeo/covid19api/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vinitshahdeo/covid19api?logo=github"></a> <img alt="GitHub top language" src="https://awesome.re/mentioned-badge.svg"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vinitshahdeo/covid19api?logo=javascript"> 
+<a href="https://github.com/vinitshahdeo/covid19api/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vinitshahdeo/covid19api?logo=github"></a> <a href="https://app.netlify.com/sites/indiafightscorona/deploys"><img src="https://api.netlify.com/api/v1/badges/fcfb9be7-e730-460c-8bcf-e35179e7bdcb/deploy-status" /></a> <img alt="GitHub top language" src="https://awesome.re/mentioned-badge.svg"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vinitshahdeo/covid19api?logo=javascript"> 
 </p>
 
 <h2 align="center"> A <a href="https://graphql.org/">GraphQL</a> Express Server powered by @covid19india/<a href="https://github.com/covid19india/api">api</a> to provide COVID-19 related stats for India :india: </h2>
 
 <p align="center"><a href="https://indiafightscorona.netlify.app/"><img src="./covid19-dashboard.png" /></a></p>
+<p align="center">
+<a href="https://www.producthunt.com/posts/covid-19-tracker-india?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-covid-19-tracker-india" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=191600&theme=dark" alt="COVID-19 Tracker | India - Get real-time state wise stats of COVID-19 in India | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/vinitshahdeo/COVID19/stargazers"><img src="https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge"/></a>
+</p>
 
 ## Setup
 
