@@ -9,7 +9,7 @@
 <a href="https://github.com/vinitshahdeo/covid19api/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vinitshahdeo/covid19api?logo=github"></a> <img alt="GitHub top language" src="https://awesome.re/mentioned-badge.svg"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vinitshahdeo/covid19api?logo=javascript"> 
 </p>
 
-<h2 align="center"> A <a href="https://graphql.org/">GraphQL</a> Express Server powered by @covid19india/<a href="https://github.com/covid19india/api">api</a> to provide COVID-19 related stats for India :india: </h1>
+<h2 align="center"> A <a href="https://graphql.org/">GraphQL</a> Express Server powered by @covid19india/<a href="https://github.com/covid19india/api">api</a> to provide COVID-19 related stats for India :india: </h2>
 
 <p align="center"><a href="https://indiafightscorona.netlify.app/"><img src="./covid19-dashboard.png" /></a></p>
 
