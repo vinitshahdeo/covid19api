@@ -93,6 +93,8 @@ npm install && npm start
 
 - An [Open Letter](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236) to all the contributors -  [STAY HOME, STAY SAFE!](https://github.com/vinitshahdeo/COVID19)
 
+![COVID-19](./COVID19.png)
+
 ## `< />` with ♡ by 
 
 [![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/0)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/1)](https://indiafightscorona.netlify.app/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/2)](https://github.com/vinitshahdeo/COVID19)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/3)](https://www.linkedin.com/in/vinitshahdeo/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/4)](http://corona-cases-india.netlify.com/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/5)](http://corona-cases-india.netlify.com/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/6)](https://github.com/vinitshahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/7)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)
