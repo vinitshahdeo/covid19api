@@ -42,6 +42,9 @@
       </a>
  </p>
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinitshahdeo%2Fcovid19api.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinitshahdeo%2Fcovid19api?ref=badge_large)
+
 ## Setup
 
 ```bash
@@ -136,6 +139,7 @@ npm install && npm start
 #### [Vinit Shahdeo](https://www.eatmy.news/2020/06/code-like-you-eat-i-mean-code-daily-as.html)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinitshahdeo%2Fcovid19api.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinitshahdeo%2Fcovid19api?ref=badge_shield)
 
 ## Leave a :star:
 
