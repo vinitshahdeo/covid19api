@@ -5,65 +5,82 @@ const {
     GraphQLString,
     GraphQLObjectType,
     GraphQLList,
-    GraphQLInt
+    GraphQLInt,
 } = require('graphql');
-
 
 const CovidDataType = new GraphQLObjectType({
     name: 'CovidStats',
     fields: () => ({
         active: {
-            type: GraphQLInt
+            type: GraphQLInt,
         },
         confirmed: {
-            type: GraphQLString
+            type: GraphQLString,
         },
         deaths: {
-            type: GraphQLString
+            type: GraphQLString,
         },
         recovered: {
-            type: GraphQLString
-        }
-    })
+            type: GraphQLString,
+        },
+    }),
 });
 
 const StateCovidDataType = new GraphQLObjectType({
     name: 'statewise',
     fields: {
         state: {
-            type: GraphQLString
+            type: GraphQLString,
         },
         active: {
-            type: GraphQLString
+            type: GraphQLString,
         },
         confirmed: {
-            type: GraphQLString
+            type: GraphQLString,
         },
         deaths: {
-            type: GraphQLString
+            type: GraphQLString,
         },
         recovered: {
-            type: GraphQLString
-        }
-    }
+            type: GraphQLString,
+        },
+    },
+});
+
+const StatecodewiseCovidDataType = new GraphQLObjectType({
+    name: 'statecodewise',
+    fields: {
+        statecode: {
+            type: GraphQLString,
+        },
+        active: {
+            type: GraphQLString,
+        },
+        confirmed: {
+            type: GraphQLString,
+        },
+        deaths: {
+            type: GraphQLString,
+        },
+    },
 });
 
 const DailyCovidDataType = new GraphQLObjectType({
     name: 'daily',
     fields: {
         date: {
-            type: GraphQLString
+            type: GraphQLString,
         },
         dailyconfirmed: {
-            type: GraphQLInt
+            type: GraphQLInt,
         },
         dailydeceased: {
-            type: GraphQLInt
+            type: GraphQLInt,
         },
         dailyrecovered: {
-            type: GraphQLInt
-        }
-    }
+            type: GraphQLInt,
+        },
+    },
 });
 
 /**
@@ -75,30 +92,43 @@ const RootQuery = new GraphQLObjectType({
         total: {
             type: CovidDataType,
             async resolve() {
-                const data = await axios.get('https://api.covid19india.org/data.json')
-                    .then(res => res.data.statewise[0]);
+                const data = await axios
+                    .get('https://api.covid19india.org/data.json')
+                    .then((res) => res.data.statewise[0]);
                 return data;
-            }
+            },
         },
         statewise: {
             type: new GraphQLList(StateCovidDataType),
             async resolve() {
-                const data = await axios.get('https://api.covid19india.org/data.json')
-                    .then(res => res.data.statewise.splice(1));
+                const data = await axios
+                    .get('https://api.covid19india.org/data.json')
+                    .then((res) => res.data.statewise.splice(1));
                 return data;
-            }
+            },
         },
         datewise: {
             type: new GraphQLList(DailyCovidDataType),
             async resolve() {
-                const data = await axios.get('https://api.covid19india.org/data.json')
-                    .then(res => res.data.cases_time_series);
+                const data = await axios
+                    .get('https://api.covid19india.org/data.json')
+                    .then((res) => res.data.cases_time_series);
                 return data;
-            }
-        }
-    }
+            },
+        },
+
+        statecodewise: {
+            type: new GraphQLList(StatecodewiseCovidDataType),
+            async resolve() {
+                const data = await axios
+                    .get('https://api.covid19india.org/data.json')
+                    .then((res) => res.data.statewise.splice(1));
+                return data;
+            },
+        },
+    },
 });
 
 module.exports = new GraphQLSchema({
-    query: RootQuery
+    query: RootQuery,
 });
