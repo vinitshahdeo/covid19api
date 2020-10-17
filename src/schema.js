@@ -16,13 +16,13 @@ const CovidDataType = new GraphQLObjectType({
             type: GraphQLInt
         },
         confirmed: {
-            type: GraphQLString
+            type: GraphQLInt
         },
         deaths: {
-            type: GraphQLString
+            type: GraphQLInt
         },
         recovered: {
-            type: GraphQLString
+            type: GraphQLInt
         }
     })
 });
@@ -34,16 +34,16 @@ const StateCovidDataType = new GraphQLObjectType({
             type: GraphQLString
         },
         active: {
-            type: GraphQLString
+            type: GraphQLInt
         },
         confirmed: {
-            type: GraphQLString
+            type: GraphQLInt
         },
         deaths: {
-            type: GraphQLString
+            type: GraphQLInt
         },
         recovered: {
-            type: GraphQLString
+            type: GraphQLInt
         }
     }
 });
